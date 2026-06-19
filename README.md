@@ -4,7 +4,11 @@
 
 > A curated list of interactive theorem provers, proof assistants, and formal verification systems.
 
-## Theorem Provers & Proof Assistants
+## Commercial Platform
+- [Isabelle](https://isabelle.in.tum.de) - Interactive theorem prover based on higher-order logic, widely used for formal verification and mathematics.
+- [Why3](https://why3.org) - Platform for deductive program verification integrating multiple theorem provers and SMT solvers.
+
+## Open-Source Project
 
 - [Agda](https://github.com/agda/agda) ![](https://img.shields.io/github/stars/agda/agda.svg?cacheSeconds=86400) - Dependently typed functional programming language and proof assistant with a focus on constructive mathematics.
 - [CakeML](https://github.com/CakeML/cakeml) ![](https://img.shields.io/github/stars/CakeML/cakeml.svg?cacheSeconds=86400) - Verified implementation of a substantial subset of Standard ML, with a compiler proven correct in HOL4.
