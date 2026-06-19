@@ -1,5 +1,7 @@
 # Awesome Interactive Theorem Provers [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
+<img width="900" alt="ChatGPT Image Jun 19, 2026, 01_05_46 AM" src="https://github.com/user-attachments/assets/638d59e7-8e53-4629-b725-1bc66d6a6023" />
+
 > A curated list of interactive theorem provers, proof assistants, and formal verification systems.
 
 ## Theorem Provers & Proof Assistants
