@@ -15,7 +15,7 @@
 - [Mathlib4](https://github.com/leanprover-community/mathlib4) ![](https://img.shields.io/github/stars/leanprover-community/mathlib4.svg?cacheSeconds=86400) - The main mathematical library for Lean 4, covering a wide range of undergraduate and graduate mathematics.
 - [Rocq](https://github.com/rocq-prover/rocq) ![](https://img.shields.io/github/stars/rocq-prover/rocq.svg?cacheSeconds=86400) - Interactive proof assistant based on the Calculus of Inductive Constructions, formerly known as Coq.
 
-## Platform Websites
+## Official Project Websites
 
 - [Isabelle](https://isabelle.in.tum.de) - Interactive theorem prover based on higher-order logic, widely used for formal verification and mathematics.
 - [Why3](https://why3.org) - Platform for deductive program verification integrating multiple theorem provers and SMT solvers.
